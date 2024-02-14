@@ -1,0 +1,14 @@
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\bin\Debug\net8.0\shapes.exe
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\bin\Debug\net8.0\shapes.deps.json
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\bin\Debug\net8.0\shapes.runtimeconfig.json
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\bin\Debug\net8.0\shapes.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\bin\Debug\net8.0\shapes.pdb
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.AssemblyInfoInputs.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.AssemblyInfo.cs
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\refint\shapes.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.pdb
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\shapes.genruntimeconfig.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\shapes\obj\Debug\net8.0\ref\shapes.dll
